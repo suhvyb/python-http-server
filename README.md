@@ -1,5 +1,5 @@
 # python-http-server
-A simple Python HTTP Server that serves static content
+Simple Python HTTP Server that serves static content
 There are several ways that this small application can be run:
 
 ### Running as a Systemd Service
